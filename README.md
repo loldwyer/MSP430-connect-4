@@ -1,7 +1,3 @@
-Here’s a **GitHub README** specifically for your **Connect 4** project:
-
----
-
 # Connect 4 on MSP430
 
 ## Overview
