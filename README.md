@@ -11,7 +11,7 @@ This project implements the classic **Connect 4** game on an **MSP430** microcon
 ## Features
 
 - **Two-player mode** (Red vs. Green)
-- ![Two Player Mode](two-player-mode.jpg)
+- ![Two Player Mode](connect%204%20images/two-player-mode.jpg)
 - **LED matrix display** for real-time game updates
 - **Win detection** (horizontal, vertical, and diagonal)
 - **UART communication** with PUTTY for game tracking
