@@ -1,4 +1,4 @@
-# Connect 4 on MSP430
+# Connect 4 on MSP430 (April 2022)
 
 ## Overview
 
