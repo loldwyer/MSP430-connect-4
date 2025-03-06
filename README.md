@@ -33,9 +33,9 @@ This project implements the classic **Connect 4** game on an **MSP430** microcon
 4. The **game checks for a win** condition after each move:
    - Four consecutive pieces in a row, column, or diagonal.
 5. The winner is displayed by filling the matrix with their color.
-   ![Red Wins](red-wins.jpg) ![Green Wins](green-wins.jpg)
+   ![Red Wins](connect%204%20images/red-wins.jpg) ![Green Wins](connect%204%20images/green-wins.jpg)
 7. If the board fills up without a winner, it’s a **draw**.
-   ![Draw](two-player-mode.jpg)
+   ![Draw](connect%204%20images/two-player-mode.jpg)
 9. The game can be restarted to play again.
 
 ## Code Structure
@@ -52,7 +52,7 @@ This project implements the classic **Connect 4** game on an **MSP430** microcon
 3. Connect the LED matrix and buttons as per the circuit design.
 4. Open **PUTTY** (or another terminal) to monitor game progress via **UART**.
 
-![Rough Diagram of Hardware](mechanical-diagram.png)
+![Rough Diagram of Hardware](connect%204%20images/mechanical-diagram.png)
 
 ## Author
 **loldwyer**  
